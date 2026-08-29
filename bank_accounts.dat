@@ -1,0 +1,13 @@
+Concepts demonstrated
+Classes and Objects
+Encapsulation
+Constructors
+Private/Public access modifiers
+File handling (ifstream, ofstream)
+Persistent data storage
+Menu-driven programming
+Deposit and withdrawal validation
+Insufficient-balance checking
+Account search and balance inquiry
+
+Note: This is an educational simulation, not a production banking system; real banking software would require encryption, authentication, authorization, transaction logging, and secure database storage.
